@@ -1,4 +1,5 @@
 class Solution:
+    #Hello
     def candy(self, ratings):
         candy=0
         for i in range(len(rating)):
