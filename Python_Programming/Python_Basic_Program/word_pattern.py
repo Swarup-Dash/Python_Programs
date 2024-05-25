@@ -26,3 +26,4 @@ pattern = "abba"
 s = "dog cat cat dog"
 ans=obj.wordPattern(pattern, s)
 print(ans)
+# YT
