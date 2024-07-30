@@ -20,6 +20,8 @@ class Solution:
                 mapping_t_to_s[char_t] = char_s
         
         return True
+    
+    
 obj=Solution()
 s = "egg"
 t = "add"
