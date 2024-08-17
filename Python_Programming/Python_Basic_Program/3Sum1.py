@@ -6,7 +6,6 @@ class Solution:
         for i in range(len(nums) - 2):
             left = i+1
             right = len(nums)-1
-              
                 
             while left < right:
                 sum = nums[i] + nums[left] + nums[right]
@@ -18,8 +17,7 @@ class Solution:
                 elif sum > 0:
                     right -= 1
                 else:
-                    left += 1
-                    
+                    left += 1                    
         
         return list(res)
 
