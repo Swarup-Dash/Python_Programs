@@ -8,8 +8,7 @@ def charCount(lst):
             
     return counter
     
-    
-    
+
     
 lst = ['a', 'b', 'a', 'c', 'a', 'b']
 res = charCount(lst)
