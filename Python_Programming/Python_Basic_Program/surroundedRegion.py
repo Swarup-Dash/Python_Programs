@@ -7,4 +7,3 @@
 #                 board[i][j] = "X"
                 
 #                 if board[i+1][j] ==0 or board[i][j+1]==0:
-                    
